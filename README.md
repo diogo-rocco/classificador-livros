@@ -1,2 +1,3 @@
-# classificador-livros
-Trabalho de Algebra Linear onde foi criado um notebbok do python que classificava livros pelo gênero
+# Book Classifier
+
+This project is an implementation of Nonnegative Matrix Factorization (NMF) for finding hidden atributes on a term by document matrix
